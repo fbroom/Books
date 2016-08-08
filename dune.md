@@ -65,3 +65,28 @@ This chapter was kind of hard for me.
 * Jessica finds a letter from Ferning, a proxy to the Emperor saying that the room is a gift for her. Jessica also discovers that there is a message written in dots warning her of assassin weapons in the house and a traitor as well!
 * Pauls comes in and shows her the hunter-seeker. They stay in the room while the men search the house. They discuss the possibility of Hawat being a traitor but Jessica brushes that off
 * Jessica tells Paul to tell his father in private about the matter and also sees very bright stars signaling outside and wonders what those might be for
+
+
+###Chapter 11:
+* The Duke misses his home Caladan and doesn’t think that Arrakis will ever be his home
+* Gurney arrives and meets with the Duke. The Duke asks him to send backup for Hawat and also to keep the spice workers from leaving
+
+
+###Chapter 12:
+* Paul tells his father about the hunter-seeker. They both agree that Hawat is loyal and he wouldn’t be the one responsible for the accident
+* The Duke meets with the staff and they realize that the equipment left by the Harkonnens will barely work. They also realize how important it is to keep a strong relationship with the Fremen. 
+* Duncan storms in and tells them about the Harkonnens disguised as Fremen. He also brings a crysknife and gives it to the Duke. As the Duke was about to unsheathe it, a man enters the room and asks the Duke to stop.
+* The man is Stilger and he is a Fremen leader. He explains the customs and traditions of the crysknife
+* Stilger and the Duke agree that Duncan will now be a Fremen, more like an ambassador to connect the two families. Duncan keeps the knife. The harkonnens have just announce a high prize for whoever brings a crysknife
+* After Stilger left, the Duke asks Duncan about getting at least two battalions of the Fremen to help against the Sardaukar
+* Also the Duke wants to know about the advance bases that belong to the Fremen, at least if they exist because they would contain resource to help them fix and operate the equipment. He wanted to ask Kynes?
+
+
+###Chapter 13: 
+* The Duke asks Hawat about what he’s hiding. Hawat tells him about the letter found in the Harkonnen’s courier stamped by the Baron. It indicates that there is a very close traitor with the Duke
+* Hawat suspects it’s Jessica but the Duke wouldn’t believe it. Hawat informs the Duke that extra monitoring will be in place from now on
+* The Duke observes the sunrise and thinks that Arrakis might actually grow on him and might be a good place for his son to grow up
+
+
+###Chapter 14:
+* The Duke tells his son about what Hawat said and how he is going let the Harkonnen believe that he truly thinks that Jessica is the one although he doesn’t
