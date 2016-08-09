@@ -1,3 +1,4 @@
+###Book 1
 ###Chapter 1:
 * The Atredis family is set to leave to Arrakis (Dune) in a week
 * Paul’s mother Jessica taking Paul to the reverend Mother for the gom jabbar test.
@@ -90,3 +91,25 @@ This chapter was kind of hard for me.
 
 ###Chapter 14:
 * The Duke tells his son about what Hawat said and how he is going let the Harkonnen believe that he truly thinks that Jessica is the one although he doesn’t
+* The Duke tells Paul about the “Mahdi” story that Hawat informed him about and how he might as will use/play it?
+
+
+###Chapter 15:
+* The Duke, Paul and Halleck go to meet Kynes the planetologist. There was so much tension between the Duke and Kynes. Kynes thinks to himself that the Duke is a fool for thinking he could fool him
+* Kynes explains the how the stillsuit works in details to the Duke
+* The Duke asks many questions about the bases and spice and Kynes tries to not give away too much. Paul thinks he’s pushing him too much
+* Kynes keeps thinking about Paul and the similarity to the Mahdi prophecy
+* They take a ship to fly over the desert to observe the spice factories
+* Kynes tells them about the worms and how there are worms wherever there is spice. The Dukes asks about how to avoid them or kill them. Kynes tells him the only way it works is by electrifying them. The Dukes asks why they wouldn’t do that everywhere and Kynes says that it’s costly but he thinks to himself “spice must exist because of the worm and if we get rid of worms then the spice won’t be there”
+* They observe a sandworm coming to a factory (Leto does) and tries to rescue them
+* The operation was successful and Kynes starts thinknig that this Duke might actually be a good one! he risked his life and his son's life to save those workers
+
+
+###Chapter 16:
+* Now we're at a dinner party hosted by Jessica. The Duke decides to stop the tradition of selling the water left after washing hands to beggers outside and commands one of the servants to give a cup of water from the basins to any begger before they start washing hands
+* The Duke is also upset because Jessica invited Tuek, the Smuggler, to the party. She thought that the Smuggler can be bribed and maybe useful for later when they need to get out of this planet
+* Duncan is also there. Hawat ordered him to monitor Jessica
+* Many topics were discussed over dinner, one topic was making Arrakis a self-sustained planet. Dr Kynes insisted that this is possible while the water shipper, Bewt (probably a harkonnen) insisted that this is impossible. The Duke tried to push Dr Kynes to answer if what he said is possible but Kynes showed uncertainty (on purpose as Paul and Jessica figured out) 
+* The Duke excuses himself to go oversee an urgent matter and asks Paul to take over. Paul mentions the story of the drowning man who had marks on his shoulder because someone else was trying to stand on top of him to save his own life. Paul mentions that this is acceptable unless you're in a drawing room?? The banker got really upset after this remark
+* They also talk about the huge spice reserve, Mother Lode. Kynes dismisses it as a rumor?
+* The Duke sends a message to Jessica telling her that everything went well and they even found the carryall taken by the Harkonnens
