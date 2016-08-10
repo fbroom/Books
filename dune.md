@@ -22,7 +22,7 @@
 
 
 ###Chapter 4:
-* Thufir Hawat comes to Paul’s study room. He tells Paul to never sit while giving his back to the door. 
+* Thufir Hawat comes to Paul’s study room. He tells Paul to never sit while giving his back to the door
 * Paul talks about the storms he studies/read about to Hawat. Hawat tells him that those storms are huge and intense. They also talk about how important water and this reminds Paul of the meeting with the Reverend Mother a week ago
 * Hawat leaves for Arrakis today while Paul will follow tomorrow
 * Gurney Hillock comes next and while Paul was saying he wasn’t in the mood to fight, Gurney attacks anyway pressuring Paul to fight back. The match ends in a tie but it scares Paul though. Gurney says that he expects Paul to be prepared at anytime
@@ -37,7 +37,7 @@
 ###Chapter 6:
 This chapter was kind of hard for me.
 * Duke Leto comes next to the room and tells his son about the value of going to Arrakis. Paul seemed concerned and told his father about the Reverend Mother’s concerns
-* The Duke told him that by controlling Arrakis they will control the spice and eventually giving the Atredis a CHAOM directorship and to keep in mind that many Houses depend on CHAOM profits. 
+* The Duke told him that by controlling Arrakis they will control the spice and eventually giving the Atredis a CHAOM directorship and to keep in mind that many Houses depend on CHAOM profits
 * The Duke knows that it will also be dangerous, the Harkonnens have been stockpiling already by 20 years. Paul asked about negotiating with the Fremen to work against Sardaukar and The Duke said that he already is working on that by sending Duncan
 * The Duke mentions the training to be a Mentat for Paul and Paul agrees
 
@@ -113,3 +113,37 @@ This chapter was kind of hard for me.
 * The Duke excuses himself to go oversee an urgent matter and asks Paul to take over. Paul mentions the story of the drowning man who had marks on his shoulder because someone else was trying to stand on top of him to save his own life. Paul mentions that this is acceptable unless you're in a drawing room?? The banker got really upset after this remark
 * They also talk about the huge spice reserve, Mother Lode. Kynes dismisses it as a rumor?
 * The Duke sends a message to Jessica telling her that everything went well and they even found the carryall taken by the Harkonnens
+
+
+###Chapter 17:
+* Jessica wakes up in the middle of the night to noises. It turns out Duncan is making noises. He is drunk and acting weird. Jessica doesn't understand why this is happening since Duncan is a trustworthy man
+* Jessica orders them to lock Duncan in a room while they figure out what is going on. She asks for Hawat immediately
+* Jessica asks Hawat to investigate what is happening and why is Duncan drunk
+* She also thinks about telling Hawat about her pregnancy but decides against it since the Duke himself doesn't know
+* Hawat isn't really being helpful (remember he suspects that she is a traitor). Jessica and Hawat have an intense argument and Hawat almost resorted to his weapon/poison
+
+
+###Chapter 18:
+* The Duke recieves a mysterious letter which he doesn't understand its meaning. He decides to go down to the family wing and talk to Jessica to clear things up.
+* On his way down he discovers the body of the smuggler Tuek stapped and then again the body of Maple the Fremen housekeeper
+* The Duke gets a poisonous stab and falls to the floor. Of course it is Yueh. Yuel explains that his ultimate intention is to kill the Baron because the harkonnen killed his wife. He also implanated a posionous tooth in the Duke's mouth so that when the Baron comes closer to him, the Baron will die too. He promises the Duke if he follows the plan then he will save his wife and son 
+
+
+###Chapter 19:
+* Jessica wakes up unable to speak because of the gag in her mouth. She realizes she's not at home. The Baron starts talking. He says he knows she's up and she doesn't have to pretend anymore. Jessica realizes that Yuel did this
+* Piter comes in the room and the Baron offers him the price of either taking Jessica and leaving to exile or becoming a duke right here (without acutal power though). Piter takes the second offer right away and Jessica thinks he is a fool for believing the Baron
+* They move Jessica and Paul to thet 'thopter so that they die in the desert by sandworms. 
+* Jessica finds the straps loose and wonders if someone has done it on purpose for them. The pilot says that they were ordered by the traitor to drop them anywhere by the Shield Wall
+* Once they land Jessica noticed another 'thoper is following them. Kinect and Czigo starts fighting over Jessica and Czigo wins. Jessica convinces him to let Paul out and she will be cooperative. Once Paul is released he kills Czigo.  
+
+
+###Chapter 20:
+* Yueh I guess brought the Duke to Baron. He was inspected first by the Sardukar and then is ordered to wait for the Baron
+* Yueh also makes sure to slip to the ducal signet under the seat in the 'thopter that will take Jessica and Paul
+
+
+###Chapter 21:
+* 
+
+
+
