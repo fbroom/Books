@@ -143,7 +143,14 @@ This chapter was kind of hard for me.
 
 
 ###Chapter 21:
-* 
+* So we’re with the Baron again. Yueh finally meets the Baron with Piter. Yueh asks the Baron for the deal he made with him to finally meet his wife Wanna. The Baron says okay so you want to meet Wanna, now you will and then instructs Piter to kills him. Yueh dies
+* They bring the Duke inside. He starts waking up and remembering things. He hears the Baron and Piter talk about how Jessica and Paul are missing. The Duke is relieved and now he remembers the tooth
+* The Baron threatens the Duke and orders him to say where Jessica and Paul might have went. The Duke eventually uses the tooth and releases the poisonous gas to the air. The Baron falls down but the suspenders helps him with preventing the gas from reaching him. Everyone else dies
+* The Baron appoints Nefud as his next captain of the guard
+* A Sardaukar bashar comes in to see the Duke’s body. He says that the Emperor ordered him to make sure the Duke dies a pain free death. The Baron is afraid that the Emperor would think less of him
+* The Baron leaves for his room them. He demands food and young fellow with lovely eyes the one that looked like Paul Atreides!
+
+
 
 
 
