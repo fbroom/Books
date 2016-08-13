@@ -1,4 +1,4 @@
-###Book 1
+##Book 1
 ###Chapter 1:
 * The Atredis family is set to leave to Arrakis (Dune) in a week
 * Paul’s mother Jessica taking Paul to the reverend Mother for the gom jabbar test.
@@ -102,14 +102,14 @@ This chapter was kind of hard for me.
 * They take a ship to fly over the desert to observe the spice factories
 * Kynes tells them about the worms and how there are worms wherever there is spice. The Dukes asks about how to avoid them or kill them. Kynes tells him the only way it works is by electrifying them. The Dukes asks why they wouldn’t do that everywhere and Kynes says that it’s costly but he thinks to himself “spice must exist because of the worm and if we get rid of worms then the spice won’t be there”
 * They observe a sandworm coming to a factory (Leto does) and tries to rescue them
-* The operation was successful and Kynes starts thinknig that this Duke might actually be a good one! he risked his life and his son's life to save those workers
+* The operation was successful and Kynes starts thinking that this Duke might actually be a good one! he risked his life and his son's life to save those workers
 
 
 ###Chapter 16:
 * Now we're at a dinner party hosted by Jessica. The Duke decides to stop the tradition of selling the water left after washing hands to beggers outside and commands one of the servants to give a cup of water from the basins to any begger before they start washing hands
 * The Duke is also upset because Jessica invited Tuek, the Smuggler, to the party. She thought that the Smuggler can be bribed and maybe useful for later when they need to get out of this planet
 * Duncan is also there. Hawat ordered him to monitor Jessica
-* Many topics were discussed over dinner, one topic was making Arrakis a self-sustained planet. Dr Kynes insisted that this is possible while the water shipper, Bewt (probably a harkonnen) insisted that this is impossible. The Duke tried to push Dr Kynes to answer if what he said is possible but Kynes showed uncertainty (on purpose as Paul and Jessica figured out) 
+* Many topics were discussed over dinner, one topic was making Arrakis a self-sustained planet. Dr Kynes insisted that this is possible while the water shipper, Bewt (probably a Harkonnen) insisted that this is impossible. The Duke tried to push Dr Kynes to answer if what he said is possible but Kynes showed uncertainty (on purpose as Paul and Jessica figured out) 
 * The Duke excuses himself to go oversee an urgent matter and asks Paul to take over. Paul mentions the story of the drowning man who had marks on his shoulder because someone else was trying to stand on top of him to save his own life. Paul mentions that this is acceptable unless you're in a drawing room?? The banker got really upset after this remark
 * They also talk about the huge spice reserve, Mother Lode. Kynes dismisses it as a rumor?
 * The Duke sends a message to Jessica telling her that everything went well and they even found the carryall taken by the Harkonnens
@@ -124,21 +124,21 @@ This chapter was kind of hard for me.
 
 
 ###Chapter 18:
-* The Duke recieves a mysterious letter which he doesn't understand its meaning. He decides to go down to the family wing and talk to Jessica to clear things up.
-* On his way down he discovers the body of the smuggler Tuek stapped and then again the body of Maple the Fremen housekeeper
-* The Duke gets a poisonous stab and falls to the floor. Of course it is Yueh. Yuel explains that his ultimate intention is to kill the Baron because the harkonnen killed his wife. He also implanated a posionous tooth in the Duke's mouth so that when the Baron comes closer to him, the Baron will die too. He promises the Duke if he follows the plan then he will save his wife and son 
+* The Duke receives a mysterious letter which he doesn't understand its meaning. He decides to go down to the family wing and talk to Jessica to clear things up.
+* On his way down he discovers the body of the smuggler Tuek stabbed and then again the body of Maple the Fremen housekeeper
+* The Duke gets a poisonous stab and falls to the floor. Of course it is Yueh. Yuel explains that his ultimate intention is to kill the Baron because the Harkonnen killed his wife. He also implanted a poisonous tooth in the Duke's mouth so that when the Baron comes closer to him, the Baron will die too. He promises the Duke if he follows the plan then he will save his wife and son 
 
 
 ###Chapter 19:
 * Jessica wakes up unable to speak because of the gag in her mouth. She realizes she's not at home. The Baron starts talking. He says he knows she's up and she doesn't have to pretend anymore. Jessica realizes that Yuel did this
-* Piter comes in the room and the Baron offers him the price of either taking Jessica and leaving to exile or becoming a duke right here (without acutal power though). Piter takes the second offer right away and Jessica thinks he is a fool for believing the Baron
+* Piter comes in the room and the Baron offers him the price of either taking Jessica and leaving to exile or becoming a duke right here (without actual power though). Piter takes the second offer right away and Jessica thinks he is a fool for believing the Baron
 * They move Jessica and Paul to thet 'thopter so that they die in the desert by sandworms. 
 * Jessica finds the straps loose and wonders if someone has done it on purpose for them. The pilot says that they were ordered by the traitor to drop them anywhere by the Shield Wall
-* Once they land Jessica noticed another 'thoper is following them. Kinect and Czigo starts fighting over Jessica and Czigo wins. Jessica convinces him to let Paul out and she will be cooperative. Once Paul is released he kills Czigo.  
+* Once they land Jessica noticed another 'thopter is following them. Kinect and Czigo starts fighting over Jessica and Czigo wins. Jessica convinces him to let Paul out and she will be cooperative. Once Paul is released he kills Czigo.  
 
 
 ###Chapter 20:
-* Yueh I guess brought the Duke to Baron. He was inspected first by the Sardukar and then is ordered to wait for the Baron
+* Yueh I guess brought the Duke to Baron. He was inspected first by the Sardaukar and then is ordered to wait for the Baron
 * Yueh also makes sure to slip to the ducal signet under the seat in the 'thopter that will take Jessica and Paul
 
 
@@ -149,6 +149,106 @@ This chapter was kind of hard for me.
 * The Baron appoints Nefud as his next captain of the guard
 * A Sardaukar bashar comes in to see the Duke’s body. He says that the Emperor ordered him to make sure the Duke dies a pain free death. The Baron is afraid that the Emperor would think less of him
 * The Baron leaves for his room them. He demands food and young fellow with lovely eyes the one that looked like Paul Atreides!
+
+
+###Chapter 22:
+* Now we're back to Jessica and Paul sitting in the tent waiting for Duncan to come to them
+* Paul points out to Jessica that the Guild are actually getting paid by the Fremen to protect the hidden desert mysteries. The Fremen are actually the power of this desert
+* Paul tells his mom that he knows that he gave birth to him because she wanted a Kwisatz Haderach and that he isn't what she wants. He is something different
+* Paul also tells his mom about the message from his dad and how he always trusted her
+* Jesssica reads the Fremen/desert book (I forgot its name) and thinks that the style is influenced by the Bene Gesserit
+* Paul has one of those dreams and he panics and tells his mom about it. He seems them getting rescued/protected by the Fremen and that he will be called Muad'Dib. He sees that they are actually Harkonnens!!! and that Jessica is actually the Baron's daughter!!!!! He also realizes that the Spice is poison you breathe it, eat it and it's in everything and once you take it in, you can't live without it
+
+
+##Book 2
+###Chapter 23:
+* Since there Duncan didn't return by the night, Paul decides that they have to leave otherwise the Harkonen will find them
+* They notice the Harkonnens bombing anything that moves and they turn to the rocks to hide. An ornithopter lands where they are
+
+
+###Chapter 24:
+* We are back to Hawat who was away in the city when the attack happened. He is now with the Fremen who told them about the attack
+* Gurney is safe as well with the smugglers
+* He still thinks that Jessica caused of all of this misery
+* The Fremen asked Hawat about the large weapons the Harkonnens used because Kynes Leit wants to know??
+* Hawat is impressed that the Fremen were taking down the Sardaukar (who were dresssed up as Harkonnens because the Empreror does want it to be known that he fights against the Great House???)
+* An Arkie man dies and Hawat is informed. The Fremen wants to take the water from his body and Hawat's men get upset. The Fremen say that this is how they treat their dead, the bond of water. Hawat asks the men to respect that tradition
+* A clash takes over between the Fremen and the sardaukar where the Fremen easily take over and Hawat is impressed again. I guess the Fremen can take 'thopters down as well
+* Another carrier comes along but much bigger, they take them down this time and Hawat falls down
+
+
+###Chapter 25:
+* We're back with Paul. It turns out the 'thopter is actually Duncan's. Kynes is with Duncan too
+* They bring Jessica and Paul to a station nearby and Paul has this long talk with Kynes
+* Paul gives Kynes a whole plan of what he intends to. First the Sardaukar are helping the Harkonnens so now he will blackmail the Emperor saying that will tell the Great Houses? Landsraad? about what is happening. The Emperor will then have no choice and Paul will marry one of his daughters and take over?
+* Kynes is having trouble believing or trusting a 15-year-old but Paul speaks and acts like a Duke already. They finally agree to be loyal to each other
+* While this was happening the Harkonnens were actually attacking outside and it looks like that Duncan is dead? Kynes shows them a secret tunnel that will take them to a 'thopter. He tells them to fly over the storm until they reach a safe place and the Fremen will then find them
+* Meanwhile Kynes is now separated from them, he thinks that since he is an imperial worker, no one will dare to touch him
+
+
+###Chapter 26:
+* Nefud tells the Baron that the woman and the boy are dead. The Baron wants a proof
+* He also tells him about capturing Hawat and Kynes and killing Duncan. The Barons is interesting in bringing Hawat and using him
+* The Baron has a plan of keeping Yueh as a secret from Hawat. He wants Hawat to still believe that Jessica did all of this. Also he wants Hawat to be on a small dose of poison
+* The Baron also wants Kynes dead, although an imperial worker. He wants it to look like an accident
+* The nephew, Raban arrives next. The Baron doesn't think too highly of him but he still wants him to be in charge
+* The Baron advises his nephew to have no mercy on this planet
+
+
+###Chapter 27:
+* Paul and Jessica successfully escape the Harkonnens and the storm. Now they need to continue walking
+* Jessica falls into a sand slope and Paul goes to help her but they lose their pack
+* Paul almost gives up but Jessica encourages him and the both dig deep with the help of mixing spice and water to form foam. The foam is used to form a barrier to the sand while digging. They finally pull the pack
+* They setup camp and continue walking the next day
+
+
+###Chapter 28:
+* We're with Gurney and the smugglers. Tuek's son saved Gurney
+* Gurney is surprised that the Tuek doesn't want to take revenge against the Harkonnens. Tuek explains that this is the deal they have with the Guild and everything will happen at the right now
+* Gurney has two choices, either stay and fight with Tuek or join the Fremen. He chooses Tuek. He also gives his men the freedom to make their own choices
+
+
+###Chapter 29:
+* Paul and Jessica continue walking endlessly. Paul steps on something and they notice it's following them and they start running and go into the rocks
+* The finally see the big worm. It was huge and smelled like cinnamon. Paul wonders why it smelled like the spice!
+* The worm finally disappears, Paul thinks the Fremen called it back. He almost knows the relationship between the spice and the worms but can't point it out
+* They discover steps going to the top and they follow it. The end up in a pretty place with few bushes around. Paul thinks it's a Fremen place. They decide to camp and find the Fremen tomorrow
+
+
+###Chapter 30:
+* Kynes walking through the desert talking to himself. He heard his father talking to him. He knows he is delirious. His father lectures him and reminds him of the concepts on Ecology and how Arrakis can be in the future a sustainable planet 
+* A Hawk lands by Kynes and Kynes has some hope that it will help him
+
+
+###Chapter 31:
+* Back to Paul and Jessica. The Fremen find them and Paul recognizes Stilger, the guy who made a deal with the Duke at the Counsel and gave Duncan the crysknife
+* Stilger wants Paul in his tribe but not Jessica. Jessica attacks Stilger quickly and Stilger is impressed
+* Jessica is happy that the Bene Gesserit did a really good job implanting their religion into Arrakis and she thinks why not to use it to her advantage
+* They also meet Chani, daughter of ?, Paul recognizes the girl as the girl from his dream
+
+
+###Chapter 32:
+* Jessica and Stilger have a talk. She first thought he wanted to marry her and she kept thinking of all the consquences but Stilger is much wiser and he tells that marrying her will not cause any benefit to the Fremen
+* ...
+
+
+###Chapter 33:
+* Jamis never trusted Jessica and wanted a real fight to determine if Paul is really who he thinks he is
+* Chani gives tips to Paul about how Jamis usually fights. Paul also uses what Gurney taught him. They fight although Jessica was trying to avoid it. Paul kills Jamis
+* Stilger names Paul Usul and Paul chooses another name Muad'Dib. They also add Paul to the name
+
+
+#Chapter 34:
+* 
+
+
+
+
+
+
+
+
+
 
 
 
