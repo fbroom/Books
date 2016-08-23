@@ -238,19 +238,107 @@ This chapter was kind of hard for me.
 * Stilger names Paul Usul and Paul chooses another name Muad'Dib. They also add Paul to the name
 
 
-#Chapter 34:
-* 
+
+###Chapter 34:
+* The ceremony for Jamis. Paul feels pressured to speak up like everyone did. He finally does but ends up crying. People are astonished that Paul is giving tears for the dead
+* They also go to the cavern and see the lake of water
 
 
+###Chapter 35:
+* Now we are with the Baron's nephew who will kill a gladiator infront of everyone for his birthday 
+* The Baron and count Ferning are sitting together watching the event
+* Ferning tells the Baron that the Emperor is not too happy with the Baron's recent actions 
+* In the match against the gladiator Feyd-Rautha cheats and switches the knives with the poison. When the slave attacked he got tricked and Feyd-Rautha ended up killing the slave
+* Feyd-Rautha refuses to take the slave's head and people appreciates the generosity of Feyd-Rautha
+* At the end the Count and his wife talk about the need to seduce Feyd-Rautha to get pregnant and have a child to save the bloodline?
 
 
+###Chapter 36:
+* Paul meets Harrah, Jamis's wife, with her two boys. Stilger gives him the option between keeping her as a servant or a wife. He chooses her to be a servant but asks Stilger if he can change his mind later. He is also responsible now for the two boys
 
 
+###Chapter 37:
+* Paul is looking for his mother but they tell him she is with Chani. Paul finds them. Jessica is actually about to perform something important among the Fremen and Paul is worried
+* Stilger announces that Jessica will become the Reverend Mother if she doesn't fail the test
+* Chani serves the water to Jessica and the Reverend Mother that will connect their thoughts. Jessica is now worried about her decision
+* The Reverend Mother realizes that Jessica is actually pregnant and gets upset that Jessica didn't tell them. She tells her that the only thing that is saving the fetus is that she is a girl and not a boy
+* Jessica gets everything from the Reverend Mother along with her daughter now so her daughter will also be aware of the thoughts and memories that got transfered
 
 
+##Book 3
+###Chapter 38:
+* The Baron thinks of the right punishment for his nephew. He brings him in and decides that Hawat will watch over him from now on
+* He also explains how he still needs his uncle and he should still be afraid for his life. He also hints at Feyd at how it might be possible that he becomes the next Emperor (The Baron is just messing with him)
+* The Baron decides that the punishment would be for Feyd to kill all the slaves in the women pleasure chamber
 
 
+###Chapter 39:
+* The Baron talks to Hawat. They talk about the prison planet. Hawat really despises the Baron
+* Hawat tells the Baron that the Emperor decided to get rid of the Atredis family because he was getting scared that Leto was actually building a force that is way better than the Emperor's Sardauker
+* Hawat tells the Emperor that the best plan is to make his nephew pay more and more taxes every year and that will push him to oppress the Fremen even more. Eventually the Baron will get rid of his nephew and acts like the savior of the Arrakis. Brilliant Plan
 
 
+###Chapter 40:
+* Paul has to take a test of riding a maker that every Fremen already knows how to do
+* ... ?
 
+
+###Chapter 41:
+* Jessica is worried about the test Paul has to take
+* Alia with Harrah come inside. Alia apparently insulted Harrah and was stubborn. Harrah complains to Jessica
+* She explains how Alia was able to see everything during the transition between the Reverend Mother and Jessica. She has all the knowledge and in fact there are two Reverend Mothers, Jessica and Alia
+* Tharthar enters the room and tells Jessica that the Fremen are planning to put Paul as the leader by making Paul challenge Stilger. They all think of a way around the situation
+
+
+###Chapter 42:
+* Paul is able to ride a maker and comes back to Stilger. Stilger though teaches Paul about the things he missed
+* Paul is a true Fremen now and asks the Fremen to move south
+* It seems that the Smugglers are roaming around. Paul and Stilger both agree that they should teach them a lesson
+
+
+###Chapter 43:
+* It turns out that the Smugglers roaming around were part of Gurney's unit. Gurney and Paul meet face to face.
+* Gurney asks his men to stop although he knows he had lost half of them already. Paul is unapologetic and says they crossed a Fremen land. He says he'll decide what to do with them later.
+* Gurney also learns that Paul is Maud'ib, the guy who used a Harkonnen officer's skin for his weapon/shield!
+* Among the smugglers were some Sardaukar. Paul tells them who he is. He wants everyone to know now that he is not dead
+* Paul also asks Stilger and Gurney to shake hands and be friends along his side
+* Paul becomes the new leader. He asks Stilger if he wants a challenge and Stilger says he won't raise a weapon against Paul ever. Paul understands but now they need the help of his mother because the young men needs to get convinced that he doesn't need to kill Stilger
+* Pauls asks Chani to go and send his mother. He also tells Chani to stay there in the south safe. Gurney still thinks that Jessica is the one who turned against the Duke and thinks about telling Paul before killing her
+
+
+###Chapter 44:
+* Paul gathered the men and declared himself as Duke of arrakis and told them about his decision to keep Stilger. Stilger is a good man and every good man is needed in war
+* Gurney finally meets Jessica. He helds a knife against her neck and asks her to tell the truth about betraying Leto. Paul comes in and clears the situation. Gurney regrets what he did and asks for foregiveness
+* Paul decides to take the test for knowing if he is a Kwisatz Haderach
+
+
+###Chapter 45:
+* Chani arrives at Jessica's location in the north. She feels something is wrong. After some format conservation Jessica finally reveals that Paul was poisoned and has been almost dead for three weeks
+* Chani figures out that all Paul needed was the water of life to come back! and he did
+* Paul tells them about taking the test and Jessica wonders if Paul has seen the future but he says that he's seen the present and Arrakis's sky is now filled with the Guild ships. On one ship the Emperor with his family is waiting. They are all coming for him
+
+
+###Chapter 46:
+* Paul gets the message that his was killed and something also happened to Alia
+* Paul, Stilger and Gurney are preparing for when the storm will hit the shield and planning the attack on the enemeies
+
+
+###Chapter 47:
+* The Emperor is with the old Reverend Mother and the Baron. He asks the Baron about what is going on. The Baron seems to not have a clue
+* Alia comes in the room and they are shocked at how she talks. She fears no one and threatens them that her brother will soon
+* The Emperor suspects that the Baron is either plotting all of this against him or that he is too simple minded. The Baron didn't even figure out that Alia is Leto's daughter
+* The storm hits and cuts the ship's nose. Alia kills the Baron and the Emperor hides with the Reverend Mother. He requests Count Ferning for help
+
+
+###Chapter 48:
+* Paul is back in Arakeen, at the house of Atredis. He requests his mother and Chani as well and commands the troops to finish up the rest of the battle
+* Paul sends a Sardauker to inform the Emperor that if they release their weapons then they have Paul's word and not be harmed
+* Jessica arrives with Chani and Paul tells her that he plans to marry Princess Irulan the Emperor's daughter. Jessica warns him about doing this mistake
+* The Emperor and his group show up at Paul's. Pauls sees Hawat and releases him
+* The Guildmen among the Emperor try to threaten Paul but Paul threatens them back by saying that he is capable of destroying all the spice on this planet
+* Paul and Feyd-Rautha fight and Pauls end up killing him
+* The Emperor asks Count Ferning for help. Count Ferning was going to be the Kwisatz Haderach? He anyway refuses to kill Paul
+* The Emperor is left with no choice. Paul decides to send him to the prison planet
+* Paul promises Chani that she will always be the one and the mother of children and Irulan is just for politics
+* Also the old Reverend Mother sees the Jihad in the future and warns Paul about it
 
