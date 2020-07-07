@@ -1,3 +1,5 @@
+Thinking Fast and Slow Book Summary
+
 Introduction
 - It was common to believe that people are rational and that emotions explain why people tend to make bad decisions but it’s not really the case. Daniel with his colleagues published papers that showed biases in intuitive thinking. One example was the availability heuristics which explains how some issues are on our mind more than others because we rely on our memories which are influenced by the media.
 
